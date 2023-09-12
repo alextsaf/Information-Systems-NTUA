@@ -31,6 +31,7 @@ class Profiler:
                 time.sleep(3)
                 retryCount += 1
                 if (retryCount == 10):
+                    print("Retried too many times, exit profiler and try again")
                     exit(1)
             else:
                 break

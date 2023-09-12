@@ -35,4 +35,5 @@ Custom data generators were developed to test the performance of the operators d
 ## Installation Instructions
 
 [Apache Spark](spark-installation-instructions.md)
+
 [Apache Hadoop](hadoop-installation-instructions.md)
